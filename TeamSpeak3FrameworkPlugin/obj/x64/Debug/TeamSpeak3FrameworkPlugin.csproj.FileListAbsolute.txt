@@ -1,0 +1,5 @@
+C:\Users\Jarod\Desktop\5NEF\TeamSpeak3FrameworkPlugin\TeamSpeak3FrameworkPlugin\bin\x64\Debug\TeamSpeak3FrameworkPlugin.dll
+C:\Users\Jarod\Desktop\5NEF\TeamSpeak3FrameworkPlugin\TeamSpeak3FrameworkPlugin\bin\x64\Debug\TeamSpeak3FrameworkPlugin.pdb
+C:\Users\Jarod\Desktop\5NEF\TeamSpeak3FrameworkPlugin\TeamSpeak3FrameworkPlugin\obj\x64\Debug\TeamSpeak3FrameworkPlugin.dll
+C:\Users\Jarod\Desktop\5NEF\TeamSpeak3FrameworkPlugin\TeamSpeak3FrameworkPlugin\obj\x64\Debug\TeamSpeak3FrameworkPlugin.pdb
+C:\Users\Jarod\Desktop\5NEF\TeamSpeak3FrameworkPlugin\TeamSpeak3FrameworkPlugin\obj\x64\Debug\TeamSpeak3FrameworkPlugin.csprojResolveAssemblyReference.cache
